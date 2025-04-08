@@ -78,5 +78,5 @@ Christ University, Bangalore
 Email: stannmariya@gmail.com
 
 ---
-Feel free to fork, star ⭐, and contribute to this project!
+
 
